@@ -218,11 +218,9 @@ State Management:
 ### 📫 Reach Out to Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=12100E" alt="Portfolio"/></a>
-  <a href="https://dev.to/YOUR_USERNAME"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" alt="Dev.to"/></a>
+  <a href="https://www.linkedin.com/in/syed-isbah-9073b429b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
+  <a href="mailto:syedisbah50@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/></a>
+  <a href="https://syedisbah.vercel.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=12100E" alt="Portfolio"/></a>
 </p>
 
 ### 💡 Open to collaboration and exciting projects!
@@ -235,12 +233,10 @@ State Management:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,8,9,10&height=120&section=footer&animation=twinkling" alt="Wave Footer"/>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
-**⭐️ From [Syed](https://github.com/YOUR_USERNAME)**
+**⭐️ From [Syed](https://github.com/isbah2004)**
 
 </div>
