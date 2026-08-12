@@ -1,243 +1,63 @@
-[<div align="center">
+<h1 align="center">Hey, I'm Syed Isbah 👋</h1>
+<h3 align="center">Flutter Developer | Firebase & Clean Architecture | 3+ Years Building Production Apps</h3>
 
-# Hey There! 👋 I'm Syed Isbah
-
-### 🚀 Mobile Dev | Flutter Enthusiast | AI Integrations
-
-<p>
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AI%20%26%20ML-Enabled-8A2BE2?style=for-the-badge" alt="AI"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="Wave"/>
+---
 
-</div>
+### About Me
+
+- 📱 Mobile Application Developer with 3+ years building intelligent, cross-platform apps on **Flutter & Dart**
+- 🏢 Currently building secure accounting apps at **PIPFA** (Pakistan Institute of Public Finance Accountants)
+- 💼 Previously led frontend engineering at **Innovative Widget**, shipping Clean Architecture + BLoC apps at scale
+- 🎓 BS in Data Science, Sindh Madressatul Islam University
+- 📦 5+ apps published across Google Play Store and App Store
+- 🌍 Open to freelance and full-time Flutter/Firebase work
 
 ---
 
-<div align="center">
+### 🔥 Core Stack
 
-<!-- Animated Rainbow Border Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=300&section=header&text=About%20Me&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Passionate%20Mobile%20Application%20Developer&descAlignY=55&descSize=20"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30&height=300&section=header&text=About%20Me&fontSize=40&fontColor=000&animation=fadeIn&fontAlignY=35&desc=Passionate%20Mobile%20Application%20Developer&descAlignY=55&descSize=20"/>
-  <img alt="About Me Header" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=About%20Me&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Passionate%20Mobile%20Application%20Developer&descAlignY=55&descSize=20"/>
-</picture>
-
-### Hi, I'm Syed! 👋
-
-**Passionate Mobile Application Developer with 3+ years of experience**
-
-Building intelligent, cross-platform apps (iOS & Android) with **Flutter & Dart**
-
-📱 Published **5+ apps** on Google Play & App Store  
-💼 Currently contributing at **PIPFA**  
-🎓 BS in Data Science @ **Sindh Madressatul Islam University** (expected 2028)
-
-</div>
+| Mobile | Backend & Data | Practices |
+|---|---|---|
+| Flutter, Dart | Firebase (Auth, Firestore, Storage, FCM, RTDB) | Clean Architecture |
+| BLoC, GetX, Provider | FastAPI, PostgreSQL, MySQL | State Management Patterns |
+| iOS (Swift), Android (Kotlin) | GraphQL, RESTful APIs | Agile / Scrum |
+| SQLite, Hive | Appwrite | Performance Optimization |
 
 ---
 
-<div align="center">
+### 🚀 Featured Work
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12&height=150&section=header&text=Specializations&fontSize=50&fontColor=fff&animation=twinkling" alt="Specializations"/>
+**[InterviewAce — AI Interview Practice Platform](https://syedisbah.vercel.app)**
+Flutter app with AI-powered voice simulations, real-time feedback, and dynamic MCQ challenges. BLoC state management + Firebase/Firestore for real-time sync. Published on Google Play Store with an active user base.
+`Flutter` `Firebase` `BLoC` `AI/ML` `Cloud Firestore`
 
-</div>
+**PIPFA Student Portal**
+Production Flutter + Firebase app for a national accounting institute — neumorphism dashboard, dual-role SOAP authentication, and a full FCM + local-alert notification stack with secure token handling.
+`Flutter` `Firebase` `SOAP` `BLoC` `GetIt`
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+**SquareOne Community App**
+Customer-facing Flutter app for a shopping mall — real-time deals and promotions with REST API integration.
+`Flutter` `Firebase` `RESTful APIs`
 
-<div align="center">
+**Flutter Frontend @ Innovative Widget**
+Led frontend engineering on a Clean Architecture + BLoC codebase, translating Figma into pixel-perfect 60 FPS UI, resolving memory leaks, and improving app load times by 25%.
+`Flutter` `BLoC` `Clean Architecture` `REST/GraphQL`
 
-### 🔥 Core Technologies
-
-</div>
-
-```yaml
-Languages & Frameworks:
-  - Flutter & Dart (Expert)
-  - Python (FastAPI)
-  - JavaScript/TypeScript
-
-Backend & Database:
-  - Firebase (Realtime & Firestore)
-  - PostgreSQL
-  - GraphQL
-  
-Mobile:
-  - iOS & Android Native Integration
-  - Cross-platform Development
-```
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🤖 Advanced Skills
-
-</div>
-
-```yaml
-AI & ML:
-  - AI/ML Model Integration
-  - Voice AI & Speech Recognition
-  - Natural Language Processing
-
-Architecture:
-  - Clean Architecture
-  - SOLID Principles
-  - Design Patterns
-
-State Management:
-  - BLoC Pattern
-  - GetX
-  - Provider & Riverpod
-```
-
-</td>
-</tr>
-</table>
+More on my [portfolio site →](https://syedisbah.vercel.app)
 
 ---
 
-<div align="center">
+### 📫 Get in Touch
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6&height=150&section=header&text=GitHub%20Stats&fontSize=50&fontColor=fff&animation=blink" alt="GitHub Stats"/>
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false&border_radius=15&border_color=58a6ff&bg_color=0d1117" alt="GitHub Stats" />
-
-</td>
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=false&border_radius=15&border=58a6ff&background=0d1117" alt="GitHub Streak" />
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=false&border_radius=15&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=20&height=150&section=header&text=Tech%20Stack&fontSize=50&fontColor=fff&animation=twinkling" alt="Tech Stack"/>
-
-### Languages & Tools
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,fastapi,postgres,graphql,mongodb,redis,docker&perline=5&theme=dark" alt="Tech Stack Row 1"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,figma,postman,linux,aws,gcp&perline=5&theme=dark" alt="Tech Stack Row 2"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=150&section=header&text=Featured%20Projects&fontSize=50&fontColor=58a6ff&animation=fadeIn" alt="Projects"/>
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=radical&hide_border=false&border_radius=15&border_color=00f0ff" alt="Project 1" />
-
-### 📱 AI-Powered Chat App
-**Real-time messaging • Voice AI • 10K+ downloads**
-
-`Flutter` `Firebase` `AI/ML` `WebRTC`
-
-[View Project →](#)
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=radical&hide_border=false&border_radius=15&border_color=ff00aa" alt="Project 2" />
-
-### 🎵 Music Streaming App
-**Clean architecture • Offline playback • Custom player**
-
-`Flutter` `BLoC` `SQLite` `Audio`
-
-[View Project →](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&theme=radical&hide_border=false&border_radius=15&border_color=00ff9d" alt="Project 3" />
-
-### 🏋️ Fitness Tracker
-**ML recommendations • GraphQL • Social features**
-
-`Flutter` `GraphQL` `ML Kit` `GetX`
-
-[View Project →](#)
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&theme=radical&hide_border=false&border_radius=15&border_color=ffaa00" alt="Project 4" />
-
-### 🛒 E-commerce Platform
-**Payment gateway • Push notifications • Admin panel**
-
-`Flutter` `Stripe` `FCM` `Provider`
-
-[View Project →](#)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=24&height=150&section=header&text=Let's%20Connect!&fontSize=50&fontColor=fff&animation=blinking" alt="Connect"/>
-
-### 📫 Reach Out to Me
-
-<p>
-  <a href="https://www.linkedin.com/in/syed-isbah-9073b429b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/></a>
-  <a href="mailto:syedisbah50@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/></a>
-  <a href="https://syedisbah.vercel.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=12100E" alt="Portfolio"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/syed-isbah-9073b429b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:syedisbah50@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://syedisbah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
-
-### 💡 Open to collaboration and exciting projects!
-
-### "Building the future, one app at a time" 🚀
-
-</div>
-
----
-
-<div align="center">
-
-
-<br>
-
-
-**⭐️ From [Syed](https://github.com/isbah2004)**
-
-</div>
-](https://github.com/isbah2004/isbah2004/blob/main/README.md)
